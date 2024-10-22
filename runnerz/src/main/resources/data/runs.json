@@ -1,0 +1,68 @@
+{
+    "runs":[
+        {
+            "id": 1,
+            "title": "Morning Run",
+            "started_on": "2022-01-07T06:00:00",
+            "completed_on": "2022-01-08T06:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+          },
+          {
+            "id": 2,
+            "title": "Afternoon Run",
+            "started_on": "2022-01-07T06:00:00",
+            "completed_on": "2022-01-08T06:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+          },
+          {
+            "id": 3,
+            "title": "Evening Run",
+            "started_on": "2022-01-07T06:00:00",
+            "completed_on": "2022-01-08T06:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+          },
+          {
+            "id": 4,
+            "title": "Morning Run Pro",
+            "started_on": "2022-01-07T06:00:00",
+            "completed_on": "2022-01-08T06:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+          },
+          {
+            "id": 5,
+            "title": "Adternoon Run Pro",
+            "started_on": "2022-01-07T06:00:00",
+            "completed_on": "2022-01-08T06:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+          },
+          {
+            "id": 6,
+            "title": "Evening Run Pro",
+            "started_on": "2022-01-07T06:00:00",
+            "completed_on": "2022-01-08T06:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+          },
+          {
+            "id": 7,
+            "title": "Premium Runs",
+            "started_on": "2022-01-07T06:00:00",
+            "completed_on": "2022-01-08T06:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+          },
+          {
+            "id": 8,
+            "title": "Master Runs",
+            "started_on": "2022-01-07T06:00:00",
+            "completed_on": "2022-01-08T06:00:00",
+            "miles": 5,
+            "location": "OUTDOOR"
+          }
+    ]
+}
